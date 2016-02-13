@@ -1,3 +1,11 @@
+libgcrypt20 (1.6.3-2+deb8u1) jessie-security; urgency=high
+
+  * Non-maintainer upload by the Security Team.
+  * ecc: input validation on ECDH
+  * ecc: Constant-time multiplication for Weierstrass curve (CVE-2015-7511)
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Wed, 10 Feb 2016 07:18:35 +0100
+
 libgcrypt20 (1.6.3-2) unstable; urgency=medium
 
   * Upload to unstable.

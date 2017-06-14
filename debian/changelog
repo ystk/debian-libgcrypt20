@@ -1,3 +1,11 @@
+libgcrypt20 (1.6.3-2+deb8u3) jessie-security; urgency=high
+
+  * Non-maintainer upload by the Security Team.
+  * ecc: Store EdDSA session key in secure memory (CVE-2017-9526)
+  * secmem: Fix SEGV and stat calculation
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Mon, 12 Jun 2017 06:25:14 +0200
+
 libgcrypt20 (1.6.3-2+deb8u2) jessie-security; urgency=high
 
   * Non-maintainer upload by the Security Team.

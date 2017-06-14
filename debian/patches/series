@@ -4,3 +4,5 @@
 17_ecc-Constant-time-multiplication-for-Weierstrass-cur.patch
 18_random-Improve-the-diagram-showing-the-random-mixing.patch
 19_random-Hash-continuous-areas-in-the-csprng-pool.patch
+20_ecc-Store-EdDSA-session-key-in-secure-memory.patch
+21_secmem-Fix-SEGV-and-stat-calculation.patch

@@ -1,3 +1,10 @@
+libgcrypt20 (1.6.3-2+deb8u5) jessie-security; urgency=medium
+
+  * Non-maintainer upload by the LTS team.
+  * ecc: Add blinding for ECDSA (CVE-2018-0495)
+
+ -- Emilio Pozuelo Monfort <pochu@debian.org>  Fri, 22 Jun 2018 11:35:48 +0200
+
 libgcrypt20 (1.6.3-2+deb8u4) jessie-security; urgency=high
 
   * 22_CVE-2017-752*.patch from upstream 1.7.8 release: Mitigate a

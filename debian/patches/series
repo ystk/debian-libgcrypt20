@@ -12,3 +12,4 @@
 22_CVE-2017-7526_4-rsa-Fix-exponent-blinding.patch
 22_CVE-2017-7526_5-rsa-More-fix.patch
 33_CVE-2018-0495-ecc-Add-blinding-for-ECDSA.patch
+34_CVE-2019-13627-ecdsa-timing-attack.patch

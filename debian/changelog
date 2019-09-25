@@ -1,3 +1,17 @@
+libgcrypt20 (1.6.3-2+deb8u7) jessie-security; urgency=high
+
+  * Update patch to CVE-2019-13627 (mitigation against an ECDSA timing attack)
+    to avoid FTBFS.
+
+ -- Chris Lamb <lamby@debian.org>  Wed, 25 Sep 2019 14:18:36 +0100
+
+libgcrypt20 (1.6.3-2+deb8u6) jessie-security; urgency=high
+
+  * CVE-2019-13627: Add mitigation against an ECDSA timing attack.
+    (Closes: 938938)
+
+ -- Chris Lamb <lamby@debian.org>  Tue, 24 Sep 2019 16:18:55 +0100
+
 libgcrypt20 (1.6.3-2+deb8u5) jessie-security; urgency=medium
 
   * Non-maintainer upload by the LTS team.

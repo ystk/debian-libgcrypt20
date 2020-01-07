@@ -1,3 +1,11 @@
+libgcrypt20 (1.6.3-2+deb8u8) jessie-security; urgency=high
+
+  * Update an incomplete patch to CVE-2019-13627 (mitigation against an ECDSA
+    timing attack). Thanks to Albert Chin-A-Young <china@thewrittenword.com>
+    for the report.
+
+ -- Chris Lamb <lamby@debian.org>  Sun, 29 Dec 2019 15:04:13 +0000
+
 libgcrypt20 (1.6.3-2+deb8u7) jessie-security; urgency=high
 
   * Update patch to CVE-2019-13627 (mitigation against an ECDSA timing attack)
